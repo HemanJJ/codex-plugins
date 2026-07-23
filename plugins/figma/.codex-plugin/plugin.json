@@ -1,0 +1,18 @@
+{
+  "name": "figma",
+  "version": "0.1.0",
+  "description": "Figma plugin",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Figma",
+    "shortDescription": "Use Figma in Codex.",
+    "longDescription": "Figma adds a local Codex plugin scaffold.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me use Figma."
+  }
+}

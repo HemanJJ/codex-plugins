@@ -1,0 +1,18 @@
+{
+  "name": "cloudflare",
+  "version": "0.1.0",
+  "description": "Cloudflare plugin",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Cloudflare",
+    "shortDescription": "Use Cloudflare in Codex.",
+    "longDescription": "Cloudflare adds a local Codex plugin scaffold.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me use Cloudflare."
+  }
+}

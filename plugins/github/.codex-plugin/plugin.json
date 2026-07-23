@@ -1,0 +1,18 @@
+{
+  "name": "github",
+  "version": "0.1.0",
+  "description": "Github plugin",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Github",
+    "shortDescription": "Use Github in Codex.",
+    "longDescription": "Github adds a local Codex plugin scaffold.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me use Github."
+  }
+}
