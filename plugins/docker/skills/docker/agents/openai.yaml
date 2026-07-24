@@ -1,0 +1,3 @@
+display_name: Docker 容器助手
+short_description: 用中文操作 Docker，跑服務、建映像、Compose、除錯
+default_prompt: 幫我用 Docker 管理容器
