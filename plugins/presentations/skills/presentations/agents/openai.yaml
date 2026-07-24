@@ -1,0 +1,3 @@
+display_name: 一鍵簡報助手
+short_description: 一句話生成整份投影片，輸出 pptx 或 Google Slides
+default_prompt: 幫我快速生成一份簡報

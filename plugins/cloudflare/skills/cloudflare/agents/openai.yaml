@@ -1,0 +1,3 @@
+display_name: 一鍵上線助手
+short_description: 用 Cloudflare Tunnel 取代 ngrok，固定公網網址 + 一鍵部署
+default_prompt: 幫我把本地服務暴露到公網或部署上線

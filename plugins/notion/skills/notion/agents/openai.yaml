@@ -1,0 +1,3 @@
+display_name: 知識庫自動化助手
+short_description: 用中文操作 Notion，讀寫頁面、查詢資料庫、串接 Obsidian
+default_prompt: 幫我管理 Notion 知識庫
